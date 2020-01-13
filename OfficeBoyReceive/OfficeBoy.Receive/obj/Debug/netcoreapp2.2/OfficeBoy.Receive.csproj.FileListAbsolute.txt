@@ -1,0 +1,6 @@
+C:\git\temp\MensageiroEstudo\OfficeBoyReceive\OfficeBoy.Receive\bin\Debug\netcoreapp2.2\OfficeBoy.Receive.deps.json
+C:\git\temp\MensageiroEstudo\OfficeBoyReceive\OfficeBoy.Receive\bin\Debug\netcoreapp2.2\OfficeBoy.Receive.dll
+C:\git\temp\MensageiroEstudo\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.csprojAssemblyReference.cache
+C:\git\temp\MensageiroEstudo\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.csproj.CoreCompileInputs.cache
+C:\git\temp\MensageiroEstudo\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.AssemblyInfoInputs.cache
+C:\git\temp\MensageiroEstudo\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.AssemblyInfo.cs

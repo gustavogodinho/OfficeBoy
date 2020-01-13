@@ -720,11 +720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\temp\\MensageiroEstudo\\OfficeBoyReceive\\OfficeBoy.Receive\\OfficeBoy.Receive.csproj",
-      "projectName": "OfficeBoy.Receive",
-      "projectPath": "C:\\git\\temp\\MensageiroEstudo\\OfficeBoyReceive\\OfficeBoy.Receive\\OfficeBoy.Receive.csproj",
+      "projectUniqueName": "C:\\git\\temp\\MensageiroEstudo\\OfficeBoySend\\OfficeBoy.Send\\OfficeBoy.Send.csproj",
+      "projectName": "OfficeBoy.Send",
+      "projectPath": "C:\\git\\temp\\MensageiroEstudo\\OfficeBoySend\\OfficeBoy.Send\\OfficeBoy.Send.csproj",
       "packagesPath": "C:\\Users\\gustavo.godinho\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\temp\\MensageiroEstudo\\OfficeBoyReceive\\OfficeBoy.Receive\\obj\\",
+      "outputPath": "C:\\git\\temp\\MensageiroEstudo\\OfficeBoySend\\OfficeBoy.Send\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
