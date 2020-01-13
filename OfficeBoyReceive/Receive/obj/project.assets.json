@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\temp\\MensageiroEstudo\\Receive\\Receive.csproj",
+      "projectUniqueName": "C:\\git\\temp\\MensageiroEstudo\\OfficeBoyReceive\\Receive\\Receive.csproj",
       "projectName": "Receive",
-      "projectPath": "C:\\git\\temp\\MensageiroEstudo\\Receive\\Receive.csproj",
+      "projectPath": "C:\\git\\temp\\MensageiroEstudo\\OfficeBoyReceive\\Receive\\Receive.csproj",
       "packagesPath": "C:\\Users\\gustavo.godinho\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\temp\\MensageiroEstudo\\Receive\\obj\\",
+      "outputPath": "C:\\git\\temp\\MensageiroEstudo\\OfficeBoyReceive\\Receive\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,21 +49,10 @@
     "frameworks": {
       "netcoreapp3.0": {
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
