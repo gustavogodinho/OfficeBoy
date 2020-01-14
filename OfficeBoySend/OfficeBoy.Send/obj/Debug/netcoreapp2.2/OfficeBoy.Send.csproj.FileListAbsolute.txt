@@ -4,3 +4,14 @@ C:\git\temp\MensageiroEstudo\OfficeBoySend\OfficeBoy.Send\obj\Debug\netcoreapp2.
 C:\git\temp\MensageiroEstudo\OfficeBoySend\OfficeBoy.Send\obj\Debug\netcoreapp2.2\OfficeBoy.Send.csproj.CoreCompileInputs.cache
 C:\git\temp\MensageiroEstudo\OfficeBoySend\OfficeBoy.Send\obj\Debug\netcoreapp2.2\OfficeBoy.Send.AssemblyInfoInputs.cache
 C:\git\temp\MensageiroEstudo\OfficeBoySend\OfficeBoy.Send\obj\Debug\netcoreapp2.2\OfficeBoy.Send.AssemblyInfo.cs
+C:\git\OfficeBoy\OfficeBoy\OfficeBoySend\OfficeBoy.Send\bin\Debug\netcoreapp2.2\OfficeBoy.Send.deps.json
+C:\git\OfficeBoy\OfficeBoy\OfficeBoySend\OfficeBoy.Send\bin\Debug\netcoreapp2.2\OfficeBoy.Send.dll
+C:\git\OfficeBoy\OfficeBoy\OfficeBoySend\OfficeBoy.Send\bin\Debug\netcoreapp2.2\OfficeBoy.Send.pdb
+C:\git\OfficeBoy\OfficeBoy\OfficeBoySend\OfficeBoy.Send\obj\Debug\netcoreapp2.2\OfficeBoy.Send.csprojAssemblyReference.cache
+C:\git\OfficeBoy\OfficeBoy\OfficeBoySend\OfficeBoy.Send\obj\Debug\netcoreapp2.2\OfficeBoy.Send.csproj.CoreCompileInputs.cache
+C:\git\OfficeBoy\OfficeBoy\OfficeBoySend\OfficeBoy.Send\obj\Debug\netcoreapp2.2\OfficeBoy.Send.AssemblyInfoInputs.cache
+C:\git\OfficeBoy\OfficeBoy\OfficeBoySend\OfficeBoy.Send\obj\Debug\netcoreapp2.2\OfficeBoy.Send.AssemblyInfo.cs
+C:\git\OfficeBoy\OfficeBoy\OfficeBoySend\OfficeBoy.Send\obj\Debug\netcoreapp2.2\OfficeBoy.Send.dll
+C:\git\OfficeBoy\OfficeBoy\OfficeBoySend\OfficeBoy.Send\obj\Debug\netcoreapp2.2\OfficeBoy.Send.pdb
+C:\git\OfficeBoy\OfficeBoy\OfficeBoySend\OfficeBoy.Send\bin\Debug\netcoreapp2.2\OfficeBoy.Send.runtimeconfig.json
+C:\git\OfficeBoy\OfficeBoy\OfficeBoySend\OfficeBoy.Send\bin\Debug\netcoreapp2.2\OfficeBoy.Send.runtimeconfig.dev.json

@@ -4,3 +4,14 @@ C:\git\temp\MensageiroEstudo\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcor
 C:\git\temp\MensageiroEstudo\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.csproj.CoreCompileInputs.cache
 C:\git\temp\MensageiroEstudo\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.AssemblyInfoInputs.cache
 C:\git\temp\MensageiroEstudo\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.AssemblyInfo.cs
+C:\git\OfficeBoy\OfficeBoy\OfficeBoyReceive\OfficeBoy.Receive\bin\Debug\netcoreapp2.2\OfficeBoy.Receive.deps.json
+C:\git\OfficeBoy\OfficeBoy\OfficeBoyReceive\OfficeBoy.Receive\bin\Debug\netcoreapp2.2\OfficeBoy.Receive.dll
+C:\git\OfficeBoy\OfficeBoy\OfficeBoyReceive\OfficeBoy.Receive\bin\Debug\netcoreapp2.2\OfficeBoy.Receive.pdb
+C:\git\OfficeBoy\OfficeBoy\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.csprojAssemblyReference.cache
+C:\git\OfficeBoy\OfficeBoy\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.csproj.CoreCompileInputs.cache
+C:\git\OfficeBoy\OfficeBoy\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.AssemblyInfoInputs.cache
+C:\git\OfficeBoy\OfficeBoy\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.AssemblyInfo.cs
+C:\git\OfficeBoy\OfficeBoy\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.dll
+C:\git\OfficeBoy\OfficeBoy\OfficeBoyReceive\OfficeBoy.Receive\obj\Debug\netcoreapp2.2\OfficeBoy.Receive.pdb
+C:\git\OfficeBoy\OfficeBoy\OfficeBoyReceive\OfficeBoy.Receive\bin\Debug\netcoreapp2.2\OfficeBoy.Receive.runtimeconfig.json
+C:\git\OfficeBoy\OfficeBoy\OfficeBoyReceive\OfficeBoy.Receive\bin\Debug\netcoreapp2.2\OfficeBoy.Receive.runtimeconfig.dev.json

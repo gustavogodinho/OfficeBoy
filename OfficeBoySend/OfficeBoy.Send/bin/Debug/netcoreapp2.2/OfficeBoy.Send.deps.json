@@ -1,14 +1,25 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "signature": "42d951eb4e3d522d54a92023322d4b387844a86a"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "OfficeBoy.Send/1.0.0": {
+        "dependencies": {
+          "RabbitMQ.Client": "6.0.0-rc1"
+        },
         "runtime": {
           "OfficeBoy.Send.dll": {}
+        }
+      },
+      "RabbitMQ.Client/6.0.0-rc1": {
+        "runtime": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          }
         }
       }
     }
@@ -18,6 +29,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "RabbitMQ.Client/6.0.0-rc1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3O7AWigTProdm0J4cYWDfSYhUvFwy4JKo/LZXea/VuzmMpYjEH6U/APjfe1bnRtEs/EvmTPVU/M0AqQ7F1Eatg==",
+      "path": "rabbitmq.client/6.0.0-rc1",
+      "hashPath": "rabbitmq.client.6.0.0-rc1.nupkg.sha512"
     }
   }
 }
