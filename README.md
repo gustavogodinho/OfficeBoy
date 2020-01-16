@@ -23,4 +23,13 @@ Execute o comando que habilita o gerenciador web:
 rabbitmq-plugins enable rabbitmq_management
 ```
 
+```sh
+Endereço de acesso: 
+localhost:15672
+User: guest
+Pass: guest
+```
+
+
+
 - Referencia do Codigo: https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
